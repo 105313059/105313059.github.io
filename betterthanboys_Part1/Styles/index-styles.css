@@ -1,0 +1,35 @@
+
+body.index {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: #222;
+    line-height: 1.6;
+}
+
+nav {
+    display:flex;
+    background-color: #e0d9f0;
+    justify-content: space-between; 
+}
+
+.menu {
+    display: flex;               /* Align items in a row */
+    justify-content: space-between;     
+    list-style: none;            /* Remove bullets */
+    gap: 3rem;                   /* Space between menu items */
+    padding: 1rem 0;             /* Vertical spacing */
+    margin: 0;                   /* Remove default margin */
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000;                 /* Menu text color */
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: #ff0055;              /* Highlight color on hover */
+}
