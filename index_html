@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <title>My First Page</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Introduction to basic HTML elements">
+        <meta name="keywords" content="HTML, Doctype, Head, Body, Meta, Paragraph, Headings, Strong, Emphasis">
+        <meta name="author" content="Mino">    
+    </head> 
+    <body>
+        <p>:3</p>
+    </body>
+</html>
